@@ -1,0 +1,60 @@
+﻿<?php
+	$lang['logo'] = 'اللوجو';
+	$lang['website'] = 'اسم الموقع';
+	$lang['currency'] = 'العملة';
+	$lang['profile'] = 'ملفي الشخصي';
+	
+	$lang['am'] = 'ص';
+	$lang['pm'] = 'م';
+	
+	$lang['time'] = 'الوقت';
+	$lang['day'] = 'اليوم';
+	$lang['finishtime'] = 'تخطى الوقت';
+	$lang['edit'] = 'تعديل';
+	$lang['delete'] = 'حذف';
+	$lang['save'] = 'حفظ';
+	$lang['yes'] = 'نعم';
+	$lang['no'] = 'لا';
+	$lang['deletemodal'] = 'هل تريد حذف هذا البيان ؟';
+	$lang['no_data'] = 'لا توجد بيانات';
+	$lang['search'] = 'بحث';
+	$lang['select'] = 'اختر';
+	$lang['next'] = 'التالي';
+	$lang['previous'] = 'السابق';
+	$lang['showing'] = 'عرض';
+	$lang['to'] = 'الى';
+	$lang['of'] = 'من';
+	$lang['entries'] = 'البيانات';
+	$lang['copy'] = 'نسخ';
+	$lang['print'] = 'طباعة';
+	$lang['excel'] = 'اكسيل';
+	$lang['csv'] = 'سي اس قس';
+	$lang['input_not_correct'] = 'خطأ في ملا الخانات';
+	$data['somthing_wrong'] = 'حدث خطأ ما';
+	$data['success_saved'] = 'تمت العملية بنجاح';
+	$lang['cant_delete'] = 'لا يمكن حذف هذا البيان';
+	$lang['invalid_input'] = 'لا يسمح بهذا المدخل';
+	$lang['code_exist'] = 'هذا الكود موجود';
+	$lang['username_exist'] = 'اسم المستخدم هذا موجود';
+	$lang['name_exist'] = 'هذا الاسم موجود';
+	$lang['email_exist'] = 'هذا البريد موجود';
+	$lang['driver_exist'] = 'هذا السائق موجود';
+	
+	$lang['notify'] = 'الاشعارات';
+	$lang['status'] = 'الحالة';
+	$lang['new'] = 'جديد';
+	$lang['warning'] = 'متابعة';
+	$lang['accept'] = 'موافقة';
+	$lang['done'] = 'تم';
+	$lang['reject'] = 'رفض';
+	$lang['waiting'] = 'انتظار';
+	$lang['message'] = 'الرسالة';
+	$lang['date'] = 'اليوم';
+	$lang['notes'] = 'الملاحظات';
+	$lang['ordernotes'] = 'الملاحظات على الطلب';
+	$lang['details'] = 'التفاصيل';
+	$lang['continueproccess'] = 'هل تريد اتمام هذه العملية ؟';
+	$lang['closesuccess'] = 'اغلاق بنجاح';
+	$lang['closefail'] = 'اغلاق بفشل';
+	$lang['open'] = 'فتح';
+?>
